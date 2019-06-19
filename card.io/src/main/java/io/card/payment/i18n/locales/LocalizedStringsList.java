@@ -41,5 +41,6 @@ public class LocalizedStringsList {
         ALL_LOCALES.add(new LocalizedStringsZH_HANS());
         ALL_LOCALES.add(new LocalizedStringsZH_HANT());
         ALL_LOCALES.add(new LocalizedStringsZH_HANT_TW());
+        ALL_LOCALES.add(new LocalizedStringsUK());
     }
 }
